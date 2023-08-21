@@ -4,7 +4,7 @@ This repository contains a Python application that utilizes OpenCV models for fa
 
 ## Demo Video
 
-[![Watch the Demo Video](https://drive.google.com/file/d/1bUH5RHzFEwyDNjuRSYUWO3ixfU6Rs3Yb/view?usp=sharing)](https://drive.google.com/file/d/1bUH5RHzFEwyDNjuRSYUWO3ixfU6Rs3Yb/view?usp=sharing)
+[![Watch the Demo Video](https://face-recognition-mj.onrender.com/)]https://face-recognition-mj.onrender.com/()
 
 Click on the image above to watch a demonstration of the face recognition wheelchair control application in action.
 
@@ -21,7 +21,7 @@ To run this application, you need to have the following installed:
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mhmodjoney/face-recognition
 
 2. Install the required Python libraries:
 3. Connect the NodeMCU to your computer and upload the Arduino sketch provided in the `node_mcu` directory using the Arduino IDE.

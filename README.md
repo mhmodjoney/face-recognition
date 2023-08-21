@@ -2,9 +2,9 @@
 
 This repository contains a Python application that utilizes OpenCV models for face recognition to control a small wheelchair using a NodeMCU. The application captures video from a camera and analyzes it in real-time to detect faces. Once a face is recognized, the corresponding control signal is sent to the NodeMCU, enabling wheelchair control.
 
-## Demo Video
+## Demo website (Video)
 
-[![Watch the Demo Video](https://face-recognition-mj.onrender.com/)]https://face-recognition-mj.onrender.com/()
+[Click here](https://face-recognition-mj.onrender.com/)
 
 Click on the image above to watch a demonstration of the face recognition wheelchair control application in action.
 
